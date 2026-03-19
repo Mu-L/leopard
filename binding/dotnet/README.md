@@ -15,10 +15,6 @@ Leopard is an on-device speech-to-text engine. Leopard is:
   - Chrome, Safari, Firefox, and Edge
   - Raspberry Pi (3, 4, 5)
 
-## Requirements
-
-- .NET 6.0
-
 ## Compatibility
 
 Platforms compatible with .NET Standard 2.0+:
